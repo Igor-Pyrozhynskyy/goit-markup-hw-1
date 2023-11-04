@@ -1,0 +1,27 @@
+:root {
+  --hero-title-color: #ffffff;
+  --section-title-color: #2e2f42;
+  --text-color: #434455;
+  --title-color: #4d5ae5;
+  --text-size: ;
+  --first-bg-color: ;
+  --sekond-bg-color: ;
+}
+body {
+  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+a {
+  list-style: none;
+}
+li {
+  list-style: none;
+}
+.logo {
+  font-size: 18px;
+  font-weight: 800;
+  color: #4d5ae5;
+  text-transform: uppercase;
+}
+.logo-title {
+}
